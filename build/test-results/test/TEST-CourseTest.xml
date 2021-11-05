@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CourseTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-11-05T15:06:38" hostname="LAPTOP-UN0KDC9N" time="0.141">
+  <properties/>
+  <testcase name="getting startdate should work" classname="CourseTest" time="0.119"/>
+  <testcase name="getting modules should work" classname="CourseTest" time="0.002"/>
+  <testcase name="setting startDate should work" classname="CourseTest" time="0.002"/>
+  <testcase name="getting enddate should work" classname="CourseTest" time="0.001"/>
+  <testcase name="setting students should work" classname="CourseTest" time="0.002"/>
+  <testcase name="getting students should work" classname="CourseTest" time="0.005"/>
+  <testcase name="setting modules should work" classname="CourseTest" time="0.001"/>
+  <testcase name="Getting Name should work" classname="CourseTest" time="0.001"/>
+  <testcase name="setting enddate should work" classname="CourseTest" time="0.001"/>
+  <testcase name="setting name should work" classname="CourseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

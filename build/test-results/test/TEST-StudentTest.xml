@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StudentTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-11-05T15:06:38" hostname="LAPTOP-UN0KDC9N" time="0.032">
+  <properties/>
+  <testcase name="Getting modules should work" classname="StudentTest" time="0.002"/>
+  <testcase name="getting age should work" classname="StudentTest" time="0.003"/>
+  <testcase name="Getting DOB should work" classname="StudentTest" time="0.002"/>
+  <testcase name="setting age should work" classname="StudentTest" time="0.001"/>
+  <testcase name="Setting DOB should work" classname="StudentTest" time="0.001"/>
+  <testcase name="setting courses should work" classname="StudentTest" time="0.007"/>
+  <testcase name="Setting modules should work" classname="StudentTest" time="0.001"/>
+  <testcase name="Getting Name should work" classname="StudentTest" time="0.001"/>
+  <testcase name="Setting Username should work" classname="StudentTest" time="0.001"/>
+  <testcase name="Getting username should work" classname="StudentTest" time="0.001"/>
+  <testcase name="Setting Name should work" classname="StudentTest" time="0.001"/>
+  <testcase name="getting courses should work" classname="StudentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

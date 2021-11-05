@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ModuleTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-11-05T15:06:38" hostname="LAPTOP-UN0KDC9N" time="0.027">
+  <properties/>
+  <testcase name="setting students should work" classname="ModuleTest" time="0.002"/>
+  <testcase name="setting courses should work" classname="ModuleTest" time="0.002"/>
+  <testcase name="getting students should work" classname="ModuleTest" time="0.002"/>
+  <testcase name="getting name should work" classname="ModuleTest" time="0.003"/>
+  <testcase name="getting id should work" classname="ModuleTest" time="0.003"/>
+  <testcase name="setting id should work" classname="ModuleTest" time="0.002"/>
+  <testcase name="setting name should work" classname="ModuleTest" time="0.002"/>
+  <testcase name="Getting courses should work" classname="ModuleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
